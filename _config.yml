@@ -1,7 +1,7 @@
-title: Creative Computing - Journal & Sessions
+title: Creative Computing - My Journal
 author:
-  name: mibrs
-  email: m.braehler@icloud.com
+  name: yourName
+  email: yourEmailaddress
 description: >
   A blog about Creative Coding
 
@@ -12,10 +12,10 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
+  # generate social links in footer, remove the comment hash and enter your data
   social_links:
-    twitter: MikeFromD
-    github:  mibrs
+    # twitter: yourTwitterName
+    # github:  yourGitHubName
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
